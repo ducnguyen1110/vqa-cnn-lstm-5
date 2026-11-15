@@ -3,8 +3,8 @@
 Predict **yes** or **no** from an image and a natural-language question using
 a pretrained ResNet18 and a bidirectional LSTM.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ducnguyen1110/vqa-cnn-lstm/blob/main/notebooks/vqa_cnn_lstm.ipynb)
-[![Notebook validation](https://github.com/ducnguyen1110/vqa-cnn-lstm/actions/workflows/notebook.yml/badge.svg)](https://github.com/ducnguyen1110/vqa-cnn-lstm/actions/workflows/notebook.yml)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ducnguyen1110/vqa-cnn-lstm-5/blob/main/notebooks/vqa_cnn_lstm.ipynb)
+[![Notebook validation](https://github.com/ducnguyen1110/vqa-cnn-lstm-5/actions/workflows/notebook.yml/badge.svg)](https://github.com/ducnguyen1110/vqa-cnn-lstm-5/actions/workflows/notebook.yml)
 
 A course project completed as part of **AI VIET NAM · AIO2026 · Module 5**.
 The goal is to study a small multimodal baseline: how visual and language
@@ -54,7 +54,7 @@ to bottom. It installs dependencies and downloads the course dataset.
 A T4-class GPU is recommended; reduce `train_batch_size` if memory is limited.
 Colab storage is temporary: download `checkpoints/` before ending the session.
 
-The Colab and CI links target `ducnguyen1110/vqa-cnn-lstm` on branch `main`.
+The Colab and CI links target `ducnguyen1110/vqa-cnn-lstm-5` on branch `main`.
 They become available after this repository is published under that name.
 
 ## Run locally
