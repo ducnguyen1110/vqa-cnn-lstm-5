@@ -1,0 +1,14 @@
+{
+  "source_filename": "Project_VQA_CNN+LSTM.ipynb",
+  "sha256": "71c794f1be7ad7b0f29ee8287b19db4d61491f3253bcd45ab4e6e67242c8303a",
+  "recorded_epochs": 16,
+  "best_recorded_validation": {
+    "epoch": 13,
+    "train_loss": 0.1811,
+    "train_acc": 0.9168,
+    "val_loss": 0.8694,
+    "val_acc": 0.6383
+  },
+  "executed_test_metrics_available": false,
+  "notes": "Metrics transcribed from saved cell outputs, not a fresh training run."
+}

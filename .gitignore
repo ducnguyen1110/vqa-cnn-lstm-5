@@ -1,0 +1,28 @@
+# Local environments and credentials
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Downloaded data and model artifacts
+data/
+checkpoints/
+runs/
+wandb/
+*.pt
+*.pth
+*.safetensors
+*.zip
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+GITHUB_SETUP.md
